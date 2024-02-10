@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    text-align: center;
+    font-size: x-large;
+    /* flex: auto; */
+    color: white;
+}
+hr {
+    height: 10px;
+    background-color: white;
+}
+img{
+    width: 100%;
+}
